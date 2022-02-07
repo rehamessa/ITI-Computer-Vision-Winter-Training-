@@ -1,5 +1,5 @@
 # ITI-Computer-Vision-Winter-Training-
-<details>Content
+## Content
 <table>
     <thead>
         <tr>
