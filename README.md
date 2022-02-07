@@ -5,7 +5,7 @@
         <tr>
             <th width="50%">Day</th>
             <th width="50%">content</th>
-            <th>Hrs</th>
+            <th>content</th>
         </tr>
     </thead>
     <tbody>
@@ -29,7 +29,7 @@ week1
                 <td align="center"></td>
             </tr>
             <tr>
-                <td><day5</td>
+                <td>Day5</td>
                 <td align="center"></td>
             </tr>
         </tbody>
