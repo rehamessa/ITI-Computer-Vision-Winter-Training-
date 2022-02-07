@@ -4,8 +4,8 @@
 <table>
     <thead>
         <tr>
-            <th width="40%">Day</th>
-            <th width="60%">content</th>
+            <th width="50%">Day</th>
+            <th width="50%">content</th>
             <th>Hrs</th>
         </tr>
     </thead>
