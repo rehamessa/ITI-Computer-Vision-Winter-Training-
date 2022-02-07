@@ -4,8 +4,8 @@
     <thead>
         <tr>
             <th width="50%">Week</th>
-            <th width="25%">Day</th>
-            <th width="25%">content</th>
+            <th width="50%">Day</th>
+            <th width="50%">content</th>
         </tr>
     </thead>
     <tbody>
