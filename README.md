@@ -3,7 +3,7 @@
 <table>
     <thead>
         <tr>
-            
+            <th width="50%">Day</th>
             <th width="50%">Day</th>
             <th >content</th>
         </tr>
