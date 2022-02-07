@@ -5,7 +5,7 @@
         <tr>
             
             <th width="50%">Day</th>
-            <th width="50%">content</th>
+            <th >content</th>
         </tr>
     </thead>
     <tbody>
