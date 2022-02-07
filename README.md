@@ -3,9 +3,9 @@
 <table>
     <thead>
         <tr>
-            <th width="50%">Week</th>
-            <th width="40%">Day</th>
-            <th width="60%">content</th>
+            <th >Week</th>
+            <th >Day</th>
+            <th >content</th>
         </tr>
     </thead>
     <tbody>
