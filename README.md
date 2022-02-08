@@ -4,16 +4,15 @@
 <table>
     <thead>
         <tr>
-            <th >Week</th>
+            
             <th >Day</th>
             <th >content</th>
         </tr>
     </thead>
     <tbody>
             <tr>
-                <td rowspan=8 align=center>
-week1
-                </td>
+                
+
                 <td  align="center">Day1</td>
                 <td align="center">python</td>
             </tr>
