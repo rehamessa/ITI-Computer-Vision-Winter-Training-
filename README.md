@@ -24,8 +24,8 @@ week1
                 <td align="center">python</td>
             </tr>
             <tr>
-                <td  align="center">Week3</td>
-                <td align="center">Data Processing with Pandas</td>
+                <td  align="center">Day3</td>
+                <td align="center">Python</td>
             </tr>
             <tr>
                 <td align="center">Week4</td>
