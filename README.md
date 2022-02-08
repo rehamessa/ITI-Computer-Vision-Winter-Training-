@@ -16,12 +16,12 @@
                 <td rowspan=8 align=center>
 week1
                 </td>
-                <td  align="center">Week1</td>
-                <td align="center">Fundamentals of Data Manipulation with Python</td>
+                <td  align="center">Day1</td>
+                <td align="center"> Python</td>
             </tr>
             <tr>
-                <td  align="center">Week2</td>
-                <td align="center">Data Processing with Pandas</td>
+                <td  align="center">Day2</td>
+                <td align="center">python</td>
             </tr>
             <tr>
                 <td  align="center">Week3</td>
