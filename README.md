@@ -31,4 +31,12 @@ week1
                 <td align="center">Day4</td>
                 <td align="center"> Computer Vision(image processing) </td>
             </tr>
+       <tr>
+                <td align="center">Day5</td>
+                <td align="center"> Computer Vision(image processing) </td>
+            </tr>
+   </tbody>
+       ,ظف
+            و
+
             
