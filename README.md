@@ -36,6 +36,31 @@ week1
                 <td align="center"> Computer Vision(image processing) </td>
             </tr>
    </tbody>
+ <tbody>
+            <tr>
+                <td rowspan=8 align=center>
+week2
+                </td>
+                <td  align="center">Day6</td>
+                <td align="center"> Python</td>
+            </tr>
+            <tr>
+                <td  align="center">Day7</td>
+                <td align="center">python</td>
+            </tr>
+            <tr>
+                <td  align="center">Day8</td>
+                <td align="center">Python</td>
+            </tr>
+            <tr>
+                <td align="center">Day9</td>
+                <td align="center"> Computer Vision(image processing) </td>
+            </tr>
+       <tr>
+                <td align="center">Day10</td>
+                <td align="center"> Computer Vision(image processing) </td>
+            </tr>
+   </tbody>
 
 
 
