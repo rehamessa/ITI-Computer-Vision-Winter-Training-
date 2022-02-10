@@ -2,7 +2,7 @@
 ## Content
 
 <table>
-   <details>
+   
 <table>
     <thead>
         <tr>
