@@ -29,6 +29,6 @@ week1
             </tr>
             <tr>
                 <td align="center">Day4</td>
-                <td align="center"> Computer Vision </td>
+                <td align="center"> Computer Vision(image processing) </td>
             </tr>
             
