@@ -36,7 +36,7 @@ week1
                 <td align="center"> Computer Vision(image processing) </td>
             </tr>
    </tbody>
-       ,ظف
-            و
+
+
 
             
