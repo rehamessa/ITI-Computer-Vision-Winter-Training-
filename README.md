@@ -19,6 +19,7 @@ week1
                 </td>
                 <td  align="center">Day1</td>
                 <td align="center"> Python</td>
+                <td align="center"> 6</td>
             </tr>
             <tr>
                 <td  align="center">Day2</td>
