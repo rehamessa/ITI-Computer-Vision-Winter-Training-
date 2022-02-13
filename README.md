@@ -42,7 +42,7 @@ week1
 week2
                 </td>
                 <td  align="center">Day6</td>
-                <td align="center"> Python</td>
+                <td align="center">Computer Vision(image processing)</td>
             </tr>
             <tr>
                 <td  align="center">Day7</td>
@@ -54,7 +54,7 @@ week2
             </tr>
             <tr>
                 <td align="center">Day9</td>
-                <td align="center"> Computer Vision(image processing) </td>
+                <td align="center">  </td>
             </tr>
        <tr>
                 <td align="center">Day10</td>
