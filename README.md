@@ -9,6 +9,7 @@
             <th> week</th>
             <th >Day</th>
             <th >content</th>
+           <th >Hours</th>
         </tr>
     </thead>
     <tbody>
