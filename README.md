@@ -53,7 +53,7 @@ week2
             </tr>
             <tr>
                 <td  align="center">Day7</td>
-                <td align="center">python</td>
+                <td align="center">Computer Vision(Feature Extraction)</td>
                 <td align="center"> 6</td>
             </tr>
             <tr>
