@@ -58,7 +58,7 @@ week2
             </tr>
             <tr>
                 <td  align="center">Day8</td>
-                <td align="center">Computer Vision(Face Detection)</td>
+                <td align="center">Computer Vision(Face Detection & intro ML)</td>
                 <td align="center"> 6</td>
             </tr>
             <tr>
