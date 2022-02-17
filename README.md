@@ -68,7 +68,7 @@ week2
             </tr>
        <tr>
                 <td align="center">Day10</td>
-                <td align="center"> Computer Vision(image processing) </td>
+                <td align="center"> Computer Vision(augmentation & Classification Cat and Dog Dataset) </td>
                 <td align="center"> 6</td>
             </tr>
    </tbody>
