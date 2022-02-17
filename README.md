@@ -63,7 +63,7 @@ week2
             </tr>
             <tr>
                 <td align="center">Day9</td>
-                <td align="center">  </td>
+                <td align="center"> Computer Vision(Hand Written Prediction & Fashion classification) </td>
                 <td align="center"> 6</td>
             </tr>
        <tr>
